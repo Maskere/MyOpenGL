@@ -1,0 +1,21 @@
+# ninja log v7
+1	42	8040081277985513	glm-populate-prefix/src/glm-populate-stamp/glm-populate-mkdir	b0646efd14a1dd16
+1	42	8040081277985513	C:/Users/Mus/Programmering/OpenGL/build/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-mkdir	b0646efd14a1dd16
+43	4553	8040081323083333	glm-populate-prefix/src/glm-populate-stamp/glm-populate-download	e62355b677abd2b8
+43	4553	8040081323083333	C:/Users/Mus/Programmering/OpenGL/build/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-download	e62355b677abd2b8
+4553	4647	8040081323128383	glm-populate-prefix/src/glm-populate-stamp/glm-populate-update	85522aababca8350
+4553	4647	8040081323128383	C:/Users/Mus/Programmering/OpenGL/build/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-update	85522aababca8350
+4647	4686	8040081324414661	glm-populate-prefix/src/glm-populate-stamp/glm-populate-patch	ef3373a8a89bc13c
+4647	4686	8040081324414661	C:/Users/Mus/Programmering/OpenGL/build/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-patch	ef3373a8a89bc13c
+4686	4724	8040081324797548	glm-populate-prefix/src/glm-populate-stamp/glm-populate-configure	e4ab88aa5037d306
+4686	4724	8040081324797548	C:/Users/Mus/Programmering/OpenGL/build/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-configure	e4ab88aa5037d306
+4724	4760	8040081325162836	glm-populate-prefix/src/glm-populate-stamp/glm-populate-build	1dd0adb90476c0d9
+4724	4760	8040081325162836	C:/Users/Mus/Programmering/OpenGL/build/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-build	1dd0adb90476c0d9
+4760	4797	8040081325535895	glm-populate-prefix/src/glm-populate-stamp/glm-populate-install	39f48a5fe89389c2
+4760	4797	8040081325535895	C:/Users/Mus/Programmering/OpenGL/build/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-install	39f48a5fe89389c2
+4797	4832	8040081325886281	glm-populate-prefix/src/glm-populate-stamp/glm-populate-test	93c8472404b18d47
+4797	4832	8040081325886281	C:/Users/Mus/Programmering/OpenGL/build/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-test	93c8472404b18d47
+4832	4882	8040081326381698	CMakeFiles/glm-populate-complete	26aa70640b8a147
+4832	4882	8040081326381698	glm-populate-prefix/src/glm-populate-stamp/glm-populate-done	26aa70640b8a147
+4832	4882	8040081326381698	C:/Users/Mus/Programmering/OpenGL/build/_deps/glm-subbuild/CMakeFiles/glm-populate-complete	26aa70640b8a147
+4832	4882	8040081326381698	C:/Users/Mus/Programmering/OpenGL/build/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-done	26aa70640b8a147

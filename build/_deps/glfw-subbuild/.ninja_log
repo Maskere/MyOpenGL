@@ -1,0 +1,21 @@
+# ninja log v7
+2	41	8040081218189924	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-mkdir	68ace32d7a2905a5
+2	41	8040081218189924	C:/Users/Mus/Programmering/OpenGL/build/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-mkdir	68ace32d7a2905a5
+41	2173	8040081239512735	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-download	94d083c2bdc1cf49
+41	2173	8040081239512735	C:/Users/Mus/Programmering/OpenGL/build/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-download	94d083c2bdc1cf49
+2173	2269	8040081239547738	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-update	9bad8f37d1d1d6db
+2173	2269	8040081239547738	C:/Users/Mus/Programmering/OpenGL/build/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-update	9bad8f37d1d1d6db
+2269	2305	8040081240833671	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-patch	21e5b1d54a84fe22
+2269	2305	8040081240833671	C:/Users/Mus/Programmering/OpenGL/build/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-patch	21e5b1d54a84fe22
+2305	2342	8040081241198556	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-configure	6bb19eb07ec99771
+2305	2342	8040081241198556	C:/Users/Mus/Programmering/OpenGL/build/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-configure	6bb19eb07ec99771
+2342	2377	8040081241553632	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-build	2dab9ad95f8ec273
+2342	2377	8040081241553632	C:/Users/Mus/Programmering/OpenGL/build/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-build	2dab9ad95f8ec273
+2377	2414	8040081241918938	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-install	593b452aa4dcfafb
+2377	2414	8040081241918938	C:/Users/Mus/Programmering/OpenGL/build/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-install	593b452aa4dcfafb
+2414	2451	8040081242289363	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-test	44c1f5bdd37b591a
+2414	2451	8040081242289363	C:/Users/Mus/Programmering/OpenGL/build/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-test	44c1f5bdd37b591a
+2451	2500	8040081242784842	CMakeFiles/glfw-populate-complete	9eb1edccbf099d71
+2451	2500	8040081242784842	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-done	9eb1edccbf099d71
+2451	2500	8040081242784842	C:/Users/Mus/Programmering/OpenGL/build/_deps/glfw-subbuild/CMakeFiles/glfw-populate-complete	9eb1edccbf099d71
+2451	2500	8040081242784842	C:/Users/Mus/Programmering/OpenGL/build/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-done	9eb1edccbf099d71

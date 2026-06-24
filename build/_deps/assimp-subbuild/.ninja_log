@@ -1,0 +1,21 @@
+# ninja log v7
+1	40	8040081330400811	assimp-populate-prefix/src/assimp-populate-stamp/assimp-populate-mkdir	2616aaf5ec38c0b6
+1	40	8040081330400811	C:/Users/Mus/Programmering/OpenGL/build/_deps/assimp-subbuild/assimp-populate-prefix/src/assimp-populate-stamp/assimp-populate-mkdir	2616aaf5ec38c0b6
+40	11853	8040081448533917	assimp-populate-prefix/src/assimp-populate-stamp/assimp-populate-download	fd09326744a2b8ff
+40	11853	8040081448533917	C:/Users/Mus/Programmering/OpenGL/build/_deps/assimp-subbuild/assimp-populate-prefix/src/assimp-populate-stamp/assimp-populate-download	fd09326744a2b8ff
+11853	11947	8040081448568930	assimp-populate-prefix/src/assimp-populate-stamp/assimp-populate-update	fe28ee10de6c4366
+11853	11947	8040081448568930	C:/Users/Mus/Programmering/OpenGL/build/_deps/assimp-subbuild/assimp-populate-prefix/src/assimp-populate-stamp/assimp-populate-update	fe28ee10de6c4366
+11947	11984	8040081449847994	assimp-populate-prefix/src/assimp-populate-stamp/assimp-populate-patch	25465e5ed02e8cc4
+11947	11984	8040081449847994	C:/Users/Mus/Programmering/OpenGL/build/_deps/assimp-subbuild/assimp-populate-prefix/src/assimp-populate-stamp/assimp-populate-patch	25465e5ed02e8cc4
+11985	12020	8040081450207448	assimp-populate-prefix/src/assimp-populate-stamp/assimp-populate-configure	63131c33f98bafce
+11985	12020	8040081450207448	C:/Users/Mus/Programmering/OpenGL/build/_deps/assimp-subbuild/assimp-populate-prefix/src/assimp-populate-stamp/assimp-populate-configure	63131c33f98bafce
+12020	12057	8040081450567790	assimp-populate-prefix/src/assimp-populate-stamp/assimp-populate-build	6b861847a73690d5
+12020	12057	8040081450567790	C:/Users/Mus/Programmering/OpenGL/build/_deps/assimp-subbuild/assimp-populate-prefix/src/assimp-populate-stamp/assimp-populate-build	6b861847a73690d5
+12057	12094	8040081450938092	assimp-populate-prefix/src/assimp-populate-stamp/assimp-populate-install	ea4a8404383e9b7
+12057	12094	8040081450938092	C:/Users/Mus/Programmering/OpenGL/build/_deps/assimp-subbuild/assimp-populate-prefix/src/assimp-populate-stamp/assimp-populate-install	ea4a8404383e9b7
+12094	12131	8040081451308503	assimp-populate-prefix/src/assimp-populate-stamp/assimp-populate-test	a9f05dd1ef236c9f
+12094	12131	8040081451308503	C:/Users/Mus/Programmering/OpenGL/build/_deps/assimp-subbuild/assimp-populate-prefix/src/assimp-populate-stamp/assimp-populate-test	a9f05dd1ef236c9f
+12131	12181	8040081451805746	CMakeFiles/assimp-populate-complete	21715aa61c4b4e3b
+12131	12181	8040081451805746	assimp-populate-prefix/src/assimp-populate-stamp/assimp-populate-done	21715aa61c4b4e3b
+12131	12181	8040081451805746	C:/Users/Mus/Programmering/OpenGL/build/_deps/assimp-subbuild/CMakeFiles/assimp-populate-complete	21715aa61c4b4e3b
+12131	12181	8040081451805746	C:/Users/Mus/Programmering/OpenGL/build/_deps/assimp-subbuild/assimp-populate-prefix/src/assimp-populate-stamp/assimp-populate-done	21715aa61c4b4e3b
